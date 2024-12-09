@@ -1,0 +1,93 @@
+h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    border:2px solid antiquewhite;
+}
+portfolio-container{
+    min-height: 100vh;
+    width: 100%;
+}
+
+navlist{
+    display: flex;
+    gap:3.5rem;
+    justify-content: center;
+    align-items: center;
+}
+.navlist{
+    list-style: none;
+}
+.navlist li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+    h2{
+        text-align: center;
+        font-family: cursive;
+        font-weight: bolder;
+        color:rgb(240, 233, 235);
+    }
+    h5{
+        text-align: center;
+        color: white;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+body{
+    background-color: rgb(163, 85, 21);
+}
+p{
+    color: white;
+}
+h3{
+    color: azure;
+    text-align: left;
+    text-decoration: underline;
+}
+label2{
+    color: aliceblue;
+    border-color: rgb(121, 77, 13);
+    border-width:0cm ;
+    text-size-adjust:initial ;
+
+    
+}
+nav{
+    color: rgb(31, 103, 167);
+    margin-right: 40px;
+}
+input{
+    color: rgb(14, 57, 94);
+    background-color:rgb(232, 232, 221);
+    text-align: center;
+}
+h6{
+    color:white
+}
+label{
+  background-color:gainsboro;
+}
+a:hover{
+    background-color: seagreen;
+    border-radius: 2px;
+    color:white;
+}
+body{
+    background-image: url(C:\Users\dell\Documents\imagecolorfl2.jpg);
+}
+p2{
+    background-color:black;
+    color: aliceblue;
+    border-radius: 20px;
+    border-width:40px;
+    border-color:gray;
+}
+p{
+    text-align:left;
+}
+.icons.fa-brands{
+    color: aliceblue;
+}
+
